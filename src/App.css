@@ -1,0 +1,11 @@
+#root {
+  max-width: 1280px;
+  padding: 2rem;
+
+}
+
+.App .editor {
+  width: 900px;
+  margin-left:20%; 
+  margin-top: 50;
+}
